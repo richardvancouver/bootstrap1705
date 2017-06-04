@@ -1,0 +1,11 @@
+/*div {
+    background-color: #cccc00;
+    border: 1px solid white;
+}*/
+.btn {
+    border-radius: 0;
+    font-size: 50px;
+}
+.btn-info {
+    background-color: black;
+}
